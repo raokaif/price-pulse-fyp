@@ -252,8 +252,9 @@ VITE_API_URL=http://localhost:3100
 ISC
 
 ## 👤 Author
-
+Kaif Ahmad
 Hamza Shamshad
+Abdullah Jamil
 
 ## 🤝 Support
 
